@@ -1,5 +1,5 @@
 # ══════════════════════════════════════════════════════════
-#  config.py  —  Tout se personnalise ici !
+#  config.py  —  Tout se personnalise ici 
 # ══════════════════════════════════════════════════════════
 
 CONFIG = {
